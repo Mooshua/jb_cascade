@@ -1,0 +1,13 @@
+grass
+{
+	"$basetexture" "detail/detailsprites_survival"
+	"$masks" "detail/detailsprites_survival_masks"
+	"$alphatest" "1"
+	"$vertexcolor" "1"
+	"$worldspacetint" "detail/test_massive9_grass_tint"
+	"$worldspacetype" "grey"
+	// "$worldspaceburn"  "_rt_grassburn"
+	// "$worldspacezone"  "_rt_zoneprojection"
+	%notooltexture "1"
+	"$minimumspritesize" "22"
+}

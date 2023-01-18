@@ -1,0 +1,5 @@
+# Ignore log files and BSPs from the build process
+*.bsp
+*.log
+*.prt
+*.vmx
